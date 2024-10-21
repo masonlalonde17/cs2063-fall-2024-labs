@@ -242,10 +242,10 @@ In future labs we will investigate maintaining the state of an ```Activity``` ev
 7. Re-open the app from the icon deck
 8. Record the values displayed under your ```ActivityOne``` system call totals.
 
-* onCreate() calls: __________________________
-* onStart() calls: ___________________________
-* onResume() calls: __________________________
-* onRestart() calls: _________________________
+* onCreate() calls: __________________________4
+* onStart() calls: ___________________________7
+* onResume() calls: __________________________7
+* onRestart() calls: _________________________3
 
 **Lab Completion**
 
