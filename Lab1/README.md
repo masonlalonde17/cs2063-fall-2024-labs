@@ -193,7 +193,7 @@ This directory contains many different types of resources that get used inside a
 		* Switch from the Design tab to the Code tab
 		* You’ll be presented with a hierarchy of XML tags each containing attributes relevant to defining the layout for the application you created in the GUI editor
 		* Layouts can be designed in either fashion, by GUI or XML. The menu directory contains a similar file for customizing the layout for menu appearances in your application
-		* More details can be found [here](http://developer.android.com/guide/topics/ui/declaring-layout.html)
+		* More details can be found [here](https://developer.android.com/guide/topics/ui/declaring-layout.html)
 
 **Deliverable 4**
 
